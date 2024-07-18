@@ -5,8 +5,8 @@
 </p>
 
 <div align="center">
-  <h4>🖥️Some technologies I use</h4>
-  <h6>🖥️Tecnologías que he utilizado</h6>
+  <h4 style="margin-bottom: 5px;">🖥️Some technologies I use</h4>
+  <h6 style="margin-top: 0;">🖥️Tecnologías que he utilizado</h6>
 </div>
 
 <hr style="height:1px; border:none; color:#000; background-color:#000;" />
@@ -34,8 +34,8 @@
 
 
 <div align="center">
-  <h4>📚Currently learning</h4>
-  <h6>📚Actualmente aprendiendo</h6>
+  <h4 style="margin-bottom: 5px;">📚Currently learning</h4>
+  <h6 style="margin-top: 0;">📚Actualmente aprendiendo</h6>
 </div>
 
 <hr style="height:1px; border:none; color:#000; background-color:#000;" />
@@ -47,8 +47,8 @@
 
 
 <div align="center">
-  <h4>🙇🏾‍♂️Interact with me</h4>
-  <h6>🙇🏾‍♂️Interactúa conmigo</h6>
+  <h4 style="margin-bottom: 5px;">🙇🏾‍♂️Interact with me</h4>
+  <h6 style="margin-top: 0;">🙇🏾‍♂️Interactúa conmigo</h6>
 </div>
 
 <hr style="height:1px; border:none; color:#000; background-color:#000;" />
