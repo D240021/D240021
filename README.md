@@ -7,7 +7,7 @@
 <h4 align="center" >Some technologies I use:</h4>
 <h6 align="center" >Tecnologías que he utilizado:</h6>
 
-<hr width="1px">
+<hr height="1px">
 <div align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
