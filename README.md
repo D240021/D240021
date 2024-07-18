@@ -1,3 +1,2 @@
 ## Hi there 👋
-
-![Green Teal Geometric Modern Computer Programmer Code Editor Quotes for Instagram Story (2)](https://github.com/user-attachments/assets/db3a7203-0125-467d-8754-957dbfcbb442)
+![Green Teal Geometric Modern Computer Programmer Code Editor Quotes for Instagram Story (3)](https://github.com/user-attachments/assets/1b5299ea-3817-4408-9172-fe80ac5876ee)
