@@ -31,8 +31,10 @@
   <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 </div>
-
-
+<br>
+<br>
+<br>
+<br>
 <div align="center">
   <h4 style="margin-bottom: 5px;">📚Currently learning</h4>
   <h6 style="margin-top: 0;">📚Actualmente aprendiendo</h6>
@@ -45,6 +47,10 @@
   <li>🌐Web3</li>
 </ul>
 
+<br>
+<br>
+<br>
+<br>
 
 <div align="center">
   <h4 style="margin-bottom: 5px;">🙇🏾‍♂️Interact with me</h4>
@@ -52,6 +58,11 @@
 </div>
 
 <hr style="height:1px; border:none; color:#000; background-color:#000;" />
+
+<br>
+<br>
+<br>
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/daniel-barrantes-ab6203168/">
