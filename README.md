@@ -4,10 +4,10 @@
   <img src="https://github.com/user-attachments/assets/3c81b002-a4fe-4691-a4d4-34de2f769138" alt="Green Teal Geometric Modern Computer Programmer Code Editor Quotes for Instagram Story (5)">
 </p>
 
-<h4 align="center" >🖥️Some technologies I use</h4>
-<h6 align="center" >🖥️Tecnologías que he utilizado</h6>
+<h4 align="center">🖥️Some technologies I use</h4>
+<h6 align="center">🖥️Tecnologías que he utilizado</h6>
 
-<hr weight="1px">
+<hr style="height:1px; border:none; color:#000; background-color:#000;" />
 <div align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
@@ -30,28 +30,27 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 </div>
 
-<hr weight="1px">
+<hr style="height:1px; border:none; color:#000; background-color:#000;" />
 
-<h4 align="center" >📚Currently learning</h4>
-<h6 align="center" >📚Actualmente aprendiendo</h6>
+<h4 align="center">📚Currently learning</h4>
+<h6 align="center">📚Actualmente aprendiendo</h6>
 
-<hr weight="1px">
+<hr style="height:1px; border:none; color:#000; background-color:#000;" />
 
-<ul align="center">
+<ul align="center" style="list-style-type:none;">
   <li>👨🏾‍🎓English</li>
   <li>🌐Web3</li>
 </ul>
 
-<hr weight="1px">
+<hr style="height:1px; border:none; color:#000; background-color:#000;" />
 
-<h4 align="center" >🙇🏾‍♂️Interact with me</h4>
-<h6 align="center" >🙇🏾‍♂️Interactúa conmigo</h6>
+<h4 align="center">🙇🏾‍♂️Interact with me</h4>
+<h6 align="center">🙇🏾‍♂️Interactúa conmigo</h6>
 
-<hr weight="1px">
+<hr style="height:1px; border:none; color:#000; background-color:#000;" />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/daniel-barrantes-ab6203168/"/>	
+  <a href="https://www.linkedin.com/in/daniel-barrantes-ab6203168/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>	
+  </a>
 </div>
-
-
-
