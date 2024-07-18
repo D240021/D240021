@@ -37,7 +37,7 @@
 
 <hr weight="1px">
 
-<ul>
+<ul align="center">
   <li>👨🏾‍🎓English</li>
   <li>🌐Web3</li>
 </ul>
@@ -50,7 +50,7 @@
 <hr weight="1px">
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>	
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/daniel-barrantes-ab6203168/"/>	
 </div>
 
 
