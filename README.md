@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 </div>
 
-<hr style="height:1px; border:none; color:#000; background-color:#000;" />
 
 <div align="center">
   <h4>📚Currently learning</h4>
@@ -46,7 +45,6 @@
   <li>🌐Web3</li>
 </ul>
 
-<hr style="height:1px; border:none; color:#000; background-color:#000;" />
 
 <div align="center">
   <h4>🙇🏾‍♂️Interact with me</h4>
