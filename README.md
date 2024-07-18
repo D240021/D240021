@@ -4,8 +4,8 @@
   <img src="https://github.com/user-attachments/assets/3c81b002-a4fe-4691-a4d4-34de2f769138" alt="Green Teal Geometric Modern Computer Programmer Code Editor Quotes for Instagram Story (5)">
 </p>
 
-<h4 align="center" >Some technologies I use:</h4>
-<h6 align="center" >Tecnologías que he utilizado:</h6>
+<h4 align="center" >🖥️Some technologies I use</h4>
+<h6 align="center" >🖥️Tecnologías que he utilizado</h6>
 
 <hr weight="1px">
 <div align="center">
@@ -24,4 +24,36 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+  <img src=""/>
+  	
 </div>
+
+<hr weight="1px">
+
+<h4 align="center" >📚Currently learning</h4>
+<h6 align="center" >📚Actualmente aprendiendo</h6>
+
+<hr weight="1px">
+
+<ul>
+  <li>👨🏾‍🎓English</li>
+  <li>🌐Web3</li>
+</ul>
+
+<hr weight="1px">
+
+<h4 align="center" >🙇🏾‍♂️Interact with me</h4>
+<h6 align="center" >🙇🏾‍♂️Interactúa conmigo</h6>
+
+<hr weight="1px">
+
+<div align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>	
+</div>
+
+
+
