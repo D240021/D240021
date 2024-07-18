@@ -4,8 +4,10 @@
   <img src="https://github.com/user-attachments/assets/3c81b002-a4fe-4691-a4d4-34de2f769138" alt="Green Teal Geometric Modern Computer Programmer Code Editor Quotes for Instagram Story (5)">
 </p>
 
-<h4 align="center">🖥️Some technologies I use</h4>
-<h6 align="center">🖥️Tecnologías que he utilizado</h6>
+<div align="center">
+  <h4>🖥️Some technologies I use</h4>
+  <h6>🖥️Tecnologías que he utilizado</h6>
+</div>
 
 <hr style="height:1px; border:none; color:#000; background-color:#000;" />
 <div align="center">
@@ -32,8 +34,10 @@
 
 <hr style="height:1px; border:none; color:#000; background-color:#000;" />
 
-<h4 align="center">📚Currently learning</h4>
-<h6 align="center">📚Actualmente aprendiendo</h6>
+<div align="center">
+  <h4>📚Currently learning</h4>
+  <h6>📚Actualmente aprendiendo</h6>
+</div>
 
 <hr style="height:1px; border:none; color:#000; background-color:#000;" />
 
@@ -44,8 +48,10 @@
 
 <hr style="height:1px; border:none; color:#000; background-color:#000;" />
 
-<h4 align="center">🙇🏾‍♂️Interact with me</h4>
-<h6 align="center">🙇🏾‍♂️Interactúa conmigo</h6>
+<div align="center">
+  <h4>🙇🏾‍♂️Interact with me</h4>
+  <h6>🙇🏾‍♂️Interactúa conmigo</h6>
+</div>
 
 <hr style="height:1px; border:none; color:#000; background-color:#000;" />
 
