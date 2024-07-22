@@ -40,7 +40,7 @@
 <br>
 <br>
 <div align="center">
-  <h4 style="margin-bottom: 5px;">#📚Currently learning</h4>
+  <h4 style="margin-bottom: 5px;">📚Currently learning</h4>
 </div>
 
 <hr style="height:1px; border:none; color:#000; background-color:#000;" />
