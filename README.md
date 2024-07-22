@@ -2,7 +2,6 @@
 
 <div align="center">
  <h1 align="center"> Hi there, I'm Daniel👋 </h1>
- <h3 align="center"> Qué tal? Soy Daniel👋 </h3>
 </div>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3c81b002-a4fe-4691-a4d4-34de2f769138" alt="Green Teal Geometric Modern Computer Programmer Code Editor Quotes for Instagram Story (5)">
@@ -10,7 +9,6 @@
 
 <div align="center">
   <h4 style="margin-bottom: 5px;">🖥️Some technologies I use</h4>
-  <h6 style="margin-top: 0;">🖥️Tecnologías que he utilizado</h6>
 </div>
 
 <hr style="height:1px; border:none; color:#000; background-color:#000;" />
@@ -42,8 +40,7 @@
 <br>
 <br>
 <div align="center">
-  <h4 style="margin-bottom: 5px;">📚Currently learning</h4>
-  <h6 style="margin-top: 0;">📚Actualmente aprendiendo</h6>
+  <h4 style="margin-bottom: 5px;">#📚Currently learning</h4>
 </div>
 
 <hr style="height:1px; border:none; color:#000; background-color:#000;" />
@@ -51,6 +48,7 @@
 <ul align="center" style="list-style-type:none;">
   <li>👨🏾‍🎓English</li>
   <li>🌐Web3</li>
+  <li>Cairo👨🏾‍💻</li>
 </ul>
 
 <br>
@@ -60,7 +58,6 @@
 
 <div align="center">
   <h4 style="margin-bottom: 5px;">🙇🏾‍♂️Interact with me</h4>
-  <h6 style="margin-top: 0;">🙇🏾‍♂️Interactúa conmigo</h6>
 </div>
 
 <hr style="height:1px; border:none; color:#000; background-color:#000;" />
