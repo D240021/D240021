@@ -48,7 +48,7 @@
 <ul align="center" style="list-style-type:none;">
   <li>👨🏾‍🎓English</li>
   <li>🌐Web3</li>
-  <li>Cairo👨🏾‍💻</li>
+  <li>👨🏾‍💻Cairo</li>
 </ul>
 
 <br>
