@@ -53,8 +53,7 @@
   <h4 style="margin-bottom: 5px;">🙇🏾‍♂️Contáctame</h4>
 </div>
 <hr style="height:1px; border:none; color:#000; background-color:#000;" />
-<br>
-<br>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/daniel-barrantes-developer?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQ4tBS0PkRcyfCkm%2FhQzRpg%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>	
