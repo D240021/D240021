@@ -1,14 +1,14 @@
 
 
 <div align="center">
- <h1 align="center"> Hi there, I'm Daniel👋 </h1>
+ <h1 align="center"> Hola! Soy Daniel👋 </h1>
 </div>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3c81b002-a4fe-4691-a4d4-34de2f769138" alt="Green Teal Geometric Modern Computer Programmer Code Editor Quotes for Instagram Story (5)">
 </p>
 
 <div align="center">
-  <h4 style="margin-bottom: 5px;">🖥️Some technologies I use</h4>
+  <h4 style="margin-bottom: 5px;">🖥️Alguna tecnologías que he utilizado</h4>
 </div>
 
 <hr style="height:1px; border:none; color:#000; background-color:#000;" />
@@ -40,14 +40,14 @@
 <br>
 <br>
 <div align="center">
-  <h4 style="margin-bottom: 5px;">📚Currently learning</h4>
+  <h4 style="margin-bottom: 5px;">📚Me encuentro aprendiendo</h4>
 </div>
 
 <hr style="height:1px; border:none; color:#000; background-color:#000;" />
 
 <ul align="center" style="list-style-type:none;">
-  <li>👨🏾‍🎓English</li>
-  <li>👨🏾‍💻React</li>
+  <li>👨🏾‍🎓Inglés</li>
+  <li>👨🏾‍💻Computación en la nube en AWS. Preparándome para la certificación Cloud Practitioner</li>
 </ul>
 
 <br>
@@ -56,7 +56,7 @@
 <br>
 
 <div align="center">
-  <h4 style="margin-bottom: 5px;">🙇🏾‍♂️Interact with me</h4>
+  <h4 style="margin-bottom: 5px;">🙇🏾‍♂️Contáctame</h4>
 </div>
 
 <hr style="height:1px; border:none; color:#000; background-color:#000;" />
